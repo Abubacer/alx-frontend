@@ -45,9 +45,9 @@ At the end of this project, we are expected to be able to learn:
 - Techium will be the name of the company we will use across our webpages.
 
 ## Sitemap of the project
-<img src="https://github.com/Abubacer/alx-frontend/tree/master/0x00-html_advanced/images/site_map.png" alt="IMG">
+<img src="https://github.com/Abubacer/alx-frontend/0x00-html_advanced/images/site_map.png" alt="IMG">
 
 ## Wireframe of Techium project
-<img src="https://github.com/Abubacer/alx-frontend/tree/master/0x00-html_advanced/images/wireframe.png" alt="IMG">
+<img src="https://github.com/Abubacer/alx-frontend/0x00-html_advanced/images/wireframe.png" alt="IMG">
 
 </div>
