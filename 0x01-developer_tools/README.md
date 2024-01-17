@@ -9,45 +9,30 @@
 <div align="left">
 <br />
 
-# 0x00. Advanced HTML
+# 0x01. Developer tools
 
 ## Welcome!
-Welcome to the Web Stack specialization. The 3 first projects will give you all basics of the Web development: HTML, CSS and Developer tools.
-
-In this project, you will learn how to use HTML tags to structure a web page. No CSS, no styling - don’t worry, the final page will be “ugly” it’s normal, it’s not the purpose of this project.
-
-- [HTML - elements of a web page](https://intranet.alxswe.com/concepts/543)
-
-Important note: details are important! lowercase vs uppercase / wrong letter… be careful!
+In this project, we will analyze [this website](https://dev-tools.alx-tools.com/)
 
 ## Learning Objectives
 
 At the end of this project, we are expected to be able to learn:
 
-- Which guidelines to follow for HTML
-- How to create the skeleton of an HTML5 page
-- How to use semantic HTML tags to structure a web page
-- Which use cases to use div vs span
-- The semantic value’s of header, main, footer, article, nav, section, aside
-- How to use headings (and why it’s important to follow the hierarchical order)
-- How to make lists in HTML
-- The differences between medias (SVG, GIF, PNG, JPG)
-- How to structure data in a table
-- How to integrate a video in a webpage
-- How to integrate an audio file in a webpage
-- How to embed external content
-- How to correctly structure an HTML page
+- What Developer Tools in your browser are
+- How to open the Developer Tools on Chrome, Firefox, Safari, and Edge.
+- How to use the elements tab to edit HTML and CSS
+- How to audit a page according to the tips suggested by Lighthouse
+- How to create and run snippets on a page
+- How to get information about files and server configurations
+- How to block requests
+- How to know how much JavaScript or CSS is used on a page
+- How to detect 404 issues
+- How to move elements on a webpage
 
 ## Requirements
 
 - A README.md file at the root of the folder of the project is mandatory
-- The code should be W3C compliant and validate with W3C-Validator
-- Techium will be the name of the company we will use across our webpages.
-
-## Sitemap of the project
-<img src="https://github.com/Abubacer/alx-frontend/blob/2f67fef33590f6445c4ee3aba5428fc3225c04c5/0x00-html_advanced/images/site_map.png" alt="IMG">
-
-## Wireframe of Techium project
-<img src="https://github.com/Abubacer/alx-frontend/blob/2f67fef33590f6445c4ee3aba5428fc3225c04c5/0x00-html_advanced/images/wireframe.png" alt="IMG">
+- Use the newest version of Google Chrome browser (78.0.3904.70 or later).
+- Screenshots can be taken via the OS, not necessary via the DevTools. These screenshots are used to see how and where you are doing/playing with the DevTools. 
 
 </div>
