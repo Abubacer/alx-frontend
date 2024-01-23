@@ -11,7 +11,15 @@
 
 # 0x02. Advanced CSS
 
-- [0x00-html_advanced](https://github.com/Abubacer/alx-frontend/tree/f9c031ecb6c8fbb231ba69806710f0b59151fd98/0x00-html_advanced)
+## Welcome!
+Welcome to the Web Stack specialization. The 3 first projects will give us all basics of the Web development: HTML, CSS and Developer tools.
+
+In the last project [0x00-html_advanced](https://github.com/Abubacer/alx-frontend/tree/f9c031ecb6c8fbb231ba69806710f0b59151fd98/0x00-html_advanced) we learn how to use HTML tags to structure a web page. With no CSS, no styling.
+
+In this project, we will learn how to use CSS to style our HTML web page, and make it awsome and stylish.
+
+## Concepts
+For this project, we need to look at these concepts:
 - [CSS fundamentals](https://intranet.alxswe.com/concepts/544)
 - [CSS advanced](https://intranet.alxswe.com/concepts/545)
 
