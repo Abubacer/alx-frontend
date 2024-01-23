@@ -42,7 +42,9 @@ At the end of this project, we are expected to be able to learn:
 - The CSS code should be W3C compliant and validate with [W3C-Validator](https://intranet.alxswe.com/rltoken/X59AxQ6wqKqiJk9i8eIjeQ)
 
 ## End goal of the project
-
+* [Wireframe](https://github.com/Abubacer/alx-frontend/blob/2f67fef33590f6445c4ee3aba5428fc3225c04c5/0x00-html_advanced/images/wireframe.png)
+* [HTML Code Source](https://github.com/Abubacer/alx-frontend/blob/470c90d5e469f973a63b57e20a835c6d5b6f4420/0x02-CSS_advanced/index.html)
+* [CSS Code Source](https://github.com/Abubacer/alx-frontend/blob/470c90d5e469f973a63b57e20a835c6d5b6f4420/0x02-CSS_advanced/styles/32-style.css)
 <img src="https://github.com/Abubacer/alx-frontend/blob/1559a74972f026e0896231bb47ed3541b36d34e1/0x02-CSS_advanced/images/Screenshot.png" alt="IMG">
 
 </div>
