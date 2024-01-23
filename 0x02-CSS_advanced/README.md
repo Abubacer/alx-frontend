@@ -43,6 +43,6 @@ At the end of this project, we are expected to be able to learn:
 
 ## End goal of the project
 
-<img src="" alt="IMG">
+<img src="https://github.com/Abubacer/alx-frontend/blob/1559a74972f026e0896231bb47ed3541b36d34e1/0x02-CSS_advanced/images/Screenshot.png" alt="IMG">
 
 </div>
